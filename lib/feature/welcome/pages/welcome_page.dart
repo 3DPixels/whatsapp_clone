@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_clone/common/extention/custom_theme_extention.dart';
-import 'package:whatsapp_clone/common/utils/coloors.dart';
+import 'package:whatsapp_clone/common/extention/custom_theme_extension.dart';
 
 import '../../../common/widgets/custom_elevated_button.dart';
 import '../widgets/language_button.dart';
