@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607111945004",
+    "project_id": "whatsapp-mazengar",
+    "storage_bucket": "whatsapp-mazengar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607111945004:android:6bcb7245a1ce654e5aea89",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhCyT-_a9rq5QJ9TIvPRc87GAWz2RLCRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
